@@ -23,4 +23,6 @@ Outcome:
 ## Tools and technologies used:
 Excel: Developed the dashboard using advanced features such as pivot tables, charts, and interactive slicers to create a user-friendly and dynamic interface.
 
+Below is the visual representation of the RMNCH Dashboard
+
 ![Interactive RMNCH Dashboard](results/Dashboard.jpg)
